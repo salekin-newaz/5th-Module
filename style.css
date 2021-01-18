@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    color: bisque;
+}
+h1:hover{
+    color: blueviolet;
+
+}
+p:hover{
+    color: red;
+    font-size: 30px;
+    background-color: seagreen;
+}
